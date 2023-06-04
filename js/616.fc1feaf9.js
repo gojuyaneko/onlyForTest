@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkcharliecom"]=self["webpackChunkcharliecom"]||[]).push([[616],{3616:function(n,e,t){t.r(e),t.d(e,{default:function(){return o}});var u=function(){var n=this,e=n._self._c;return e("div",[n._v(" fhdsfdskfsj ")])},r=[],s={components:{},data(){return{}},mounted(){},methods:{}},c=s,l=t(1001),f=(0,l.Z)(c,u,r,!1,null,null,null),o=f.exports}}]);
